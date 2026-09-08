@@ -51,7 +51,8 @@ Extension identifier:
 ```text
 ms-vscode.cpptools
 ```
-<img width="1209" height="357" alt="Screenshot 2026-09-08 140927" src="https://github.com/user-attachments/assets/7644b892-1b5c-4c9d-be42-8508643e293a" />
+<img width="948" height="285" alt="Screenshot 2026-09-08 150426" src="https://github.com/user-attachments/assets/e4c00e0b-2424-435c-8884-2b4d81d346bf" />
+
 
 # Windows 10/11 instructions
 

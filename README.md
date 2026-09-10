@@ -14,7 +14,7 @@ A ready-to-use C++ OpenGL and freeglut workspace for 64-bit Windows. The reposit
 Clone the repository:
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/opengl-workspace-windows.git
+git clone https://github.com/aberisme/opengl-workspace-windows.git
 cd opengl-workspace-windows
 code .
 ```

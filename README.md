@@ -3,7 +3,7 @@
 A ready-to-use C++ OpenGL and freeglut workspace for 64-bit Windows. The repository includes a portable MSYS2 UCRT64 toolchain, so students do not need to install MinGW separately.
 
 ## Video Tutorial
-[![OpenGL Portable Workspace Setup](https://youtube.com)](https://youtu.be/pSaMlxv6AZo)
+[![Code Demo](https://img.youtube.com/vi/pSaMlxv6AZo/0.jpg)](https://youtu.be/pSaMlxv6AZo)
 
 ## Requirements
 

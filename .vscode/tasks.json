@@ -5,7 +5,7 @@
       "label": "Build Active OpenGL File",
       "type": "process",
       "command": "${workspaceFolder}\\toolchain\\ucrt64\\bin\\g++.exe",
-      "args": ["-std=c++17", "-Wall", "-Wextra", "-g", "${file}", "-o", "${fileDirname}\\${fileBasenameNoExtension}.exe", "-lfreeglut", "-lopengl32", "-lglu32"],
+      "args": ["-std=c++17", "-Wall", "-Wextra", "-g", "${file}", "-o", "${fileDirname}\\${fileBasenameNoExtension}.exe", "-lglew32", "-lfreeglut", "-lopengl32", "-lglu32"],
       "options": {
         "cwd": "${fileDirname}",
         "env": {"PATH": "${workspaceFolder}\\toolchain\\ucrt64\\bin;${env:PATH}"}
